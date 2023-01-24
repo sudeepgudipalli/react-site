@@ -1,0 +1,45 @@
+.researchinfo{
+    background-color:white;
+    margin:3%;
+    width:94%;
+    padding:1%;
+}
+.back{
+    margin-left:auto;
+    margin-right:2rem;
+}
+.signbox{
+    text-align: center;
+    width:30%;
+    height:auto;
+    background-color:aliceblue;
+    margin-top:9%;
+    border-radius:30px;
+    padding:30px;
+    min-width: 200px;
+    margin:1%;
+}
+.sign{
+    text-align: center;
+    text-decoration: none;
+    background-color: darkblue;
+    color:white;
+    width:20%;
+    padding:2%;
+    min-width:70px;
+    border-radius:15px;
+}
+.sign:hover{
+    background-color: aliceblue;
+    color:black;
+    border: 1px solid darkblue;
+    transition-duration: 0.3s;
+}
+.page{
+    width:50%;
+    height:fit-content;
+    padding:5%;
+}
+.group{
+    margin-top:40%;
+}
